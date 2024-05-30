@@ -8,7 +8,7 @@ export default function ArticlesPage(){
             <h1>art Page</h1>
 
         <Link href="/posts">
-        <button>tske me back</button>
+        <button>take me back</button>
         </Link>            
 
         </div>

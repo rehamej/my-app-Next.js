@@ -8,7 +8,7 @@ export default function ({children}){
             Articles
             </h1>
             
-            <div style={{background:"blue"}}>{children}
+            <div style={{background:"#9c232c"}}>{children}
             </div>
 
             </div>

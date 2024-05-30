@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <nav style={{width:"100%", background: "teal", fontSize: "50px", display:"flex" , justifyContent: "center"}}>
+        <nav style={{width:"100%", background: "#9c232c", fontSize: "50px", display:"flex" , justifyContent: "center"}}>
         <Link style={{margin: "6px"}}href="/">Home</Link>
         <Link style={{margin: "6px"}}href="/posts">Posts</Link>
         <Link style={{margin: "6px"}}href="/articles">Articles Page</Link>
